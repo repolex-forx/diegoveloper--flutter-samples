@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/diegoveloper/flutter-samples/commit/feb76b20167fe2686d6aaf3a922d645d216959ec",
       "git:hexsha": "feb76b20167fe2686d6aaf3a922d645d216959ec",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
